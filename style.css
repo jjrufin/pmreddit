@@ -1,0 +1,51 @@
+body {
+  background-color: #243E36;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+}
+
+button {
+  margin: 10px;
+  border-radius: 8px;
+}
+
+form {
+  text-align: center;
+  color: white;
+}
+
+div {
+  margin: auto;
+  border-style: solid;
+  border-color: white;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  text-align: center;
+  color: white;
+}
+
+p {
+   text-align: center;
+   color: white;
+}
+
+.title {
+  border-color: none;
+}
+
+ img {
+   display: block;
+   margin: 0 auto;
+   height: 200px;
+   width: 200px
+
+ }
